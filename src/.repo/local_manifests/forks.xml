@@ -3,16 +3,16 @@
 <manifest>
   <!-- from LineageOS -->
   <remove-project name="LineageOS/android_kernel_configs" />
-  <project remote="github" path="kernel/configs" name="wz-willker/android_kernel_configs" groups="vts,pdk" />
+  <project remote="github" path="kernel/configs" name="hiruocha/android_kernel_configs" groups="vts,pdk" />
   <remove-project name="LineageOS/android_vendor_lineage" />
-  <project remote="github" path="vendor/lineage" name="wz-willker/android_vendor_lineage" />
+  <project remote="github" path="vendor/lineage" name="hiruocha/android_vendor_lineage" />
   <remove-project name="LineageOS/android_frameworks_base" />
-  <project remote="github" path="frameworks/base" name="wz-willker/android_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" />
+  <project remote="github" path="frameworks/base" name="hiruocha/android_frameworks_base" groups="pdk-cw-fs,pdk-fs,sysui-studio" />
   <remove-project name="LineageOS/android_packages_apps_Settings" />
-  <project path="packages/apps/Settings" name="wz-willker/android_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" />
+  <project path="packages/apps/Settings" name="hiruocha/android_packages_apps_Settings" groups="pdk-fs,pdk-cw-tvc,sysui-studio" />
   <remove-project name="LineageOS/android_packages_apps_Updater" />
-  <project path="packages/apps/Updater" name="wz-willker/android_packages_apps_Updater" />
+  <project path="packages/apps/Updater" name="hiruocha/android_packages_apps_Updater" />
   <!-- from AOSP -->
   <remove-project name="platform/packages/apps/CarrierConfig" />
-  <project path="packages/apps/CarrierConfig" name="wz-willker/android_packages_apps_CarrierConfig" groups="pdk-cw-fs,pdk-fs" />
+  <project path="packages/apps/CarrierConfig" name="hiruocha/android_packages_apps_CarrierConfig" groups="pdk-cw-fs,pdk-fs" />
 </manifest>
