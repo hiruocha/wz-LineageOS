@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1789480624,
+    "datetime": 1791811828,
     "files": [
       {
-        "filename": "LineageOS-23.2-20260915-UNOFFICIAL-nabu.zip",
-        "os_patch_level": "2026-09-01",
+        "filename": "LineageOS-23.2-20261012-UNOFFICIAL-nabu.zip",
+        "os_patch_level": "2026-10-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:3761:109336,payload.bin:3761:1630552277,payload_properties.txt:1630556096:156,apex_info.pb:1836:1276,care_map.pb:3159:555,metadata:69:659,metadata.pb:796:992",
-        "sha256": "ddec2aaab7ad10e99907c45e30a349dc3bb2a3dfafae2a7f623e58a6da6a6f17",
-        "size": 1630559471,
-        "url": "https://master.dl.sourceforge.net/project/wz-lineage/23.2/nabu/LineageOS-23.2-20260915-UNOFFICIAL-nabu.zip?viasf=1"
+        "ota_property_files": "payload_metadata.bin:3761:109453,payload.bin:3761:1632636938,payload_properties.txt:1632640757:156,apex_info.pb:1836:1276,care_map.pb:3159:555,metadata:69:659,metadata.pb:796:992",
+        "sha256": "c232d9d845c1727b7cb82011bb34310802590074ebf9cb74819d671e8ae6ce86",
+        "size": 1632644132,
+        "url": "https://master.dl.sourceforge.net/project/wz-lineage/23.2/nabu/LineageOS-23.2-20261012-UNOFFICIAL-nabu.zip?viasf=1"
       }
     ],
     "type": "UNOFFICIAL",
