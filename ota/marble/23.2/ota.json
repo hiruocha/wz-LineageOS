@@ -1,15 +1,15 @@
 [
   {
-    "datetime": 1792019194,
+    "datetime": 1792775150,
     "files": [
       {
-        "filename": "LineageOS-23.2-20261014-UNOFFICIAL-marble.zip",
+        "filename": "LineageOS-23.2-20261023-UNOFFICIAL-marble.zip",
         "os_patch_level": "2026-10-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:4154:150317,payload.bin:4154:2342481735,payload_properties.txt:2342485947:156,apex_info.pb:2089:1279,care_map.pb:3415:692,metadata:69:673,metadata.pb:810:1231",
-        "sha256": "da3a8bbdcb0484b879720468f49b362a287ea37b0dff1c65e58e889dec7fbfc4",
-        "size": 2342489322,
-        "url": "https://master.dl.sourceforge.net/project/wz-lineage/23.2/marble/LineageOS-23.2-20260912-UNOFFICIAL-marble.zip?viasf=1"
+        "ota_property_files": "payload_metadata.bin:4154:150375,payload.bin:4154:2343408858,payload_properties.txt:2343413070:156,apex_info.pb:2089:1279,care_map.pb:3415:692,metadata:69:673,metadata.pb:810:1231",
+        "sha256": "c5ae77879d91c861e41bdfd2c7eb3daf6c3cddb523f049a0fb6e43858464bded",
+        "size": 2343416445,
+        "url": "https://master.dl.sourceforge.net/project/wz-lineage/23.2/marble/LineageOS-23.2-20261023-UNOFFICIAL-marble.zip?viasf=1"
       }
     ],
     "type": "UNOFFICIAL",

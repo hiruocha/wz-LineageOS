@@ -1,5 +1,8 @@
 上游更新日志：https://download.lineageos.org/devices/marble/changes
 
+20261023
+- 跟进 LineageOS 上游移除 emSign CA 证书
+
 20261014
 - 更新 10 月 1 日补丁
 - 合并 [AOSP ASB-2026-10-05_12-5.10](https://android.googlesource.com/kernel/common/+/refs/tags/ASB-2026-10-05_12-5.10) 内核更新
